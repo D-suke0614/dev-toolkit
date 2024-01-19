@@ -1,0 +1,17 @@
+/* marker style */
+.marker-red {
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0) 60%,
+    #ffb7b6 30%
+  );
+  font-weight: bold;
+}
+.marker-blue {
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0) 60%,
+    #b4cee7 30%
+  );
+  font-weight: bold;
+}
